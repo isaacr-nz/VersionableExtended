@@ -9,6 +9,8 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mpociot/versionable/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mpociot/versionable/?branch=master)
 [![Build Status](https://travis-ci.org/mpociot/versionable.svg?branch=master)](https://travis-ci.org/mpociot/versionable)
 
+An extension of [mpociot/Versionable](https://github.com/mpociot/versionable) that adds functionality to allow versioning of deep nested relationships
+
 Keep track of all your model changes and revert to previous versions of it.
 
 ```php
